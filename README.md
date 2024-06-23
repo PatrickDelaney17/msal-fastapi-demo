@@ -43,5 +43,4 @@ python generate_secret_key.py
 
 #Add the generated SECRET_KEY to your .env file
 
-# example=>1JZj8Q~mVNnd_MfluKdMXFZwgO.N3o1WeaBg-Wcnb-o21g
 ```
